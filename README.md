@@ -1,5 +1,5 @@
 # sds - Scrap Download Split
-Extracts latest #videos from given channel link, then downloads and splits them into parts.
+Extracts latest #videos from given YouTube channel link, then downloads and splits them into parts.
 
 # Notes:
 * Runs using commandline and takes 3 arguments: channel link, number of videos and duration of each part.
